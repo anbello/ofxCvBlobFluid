@@ -1,0 +1,11 @@
+ofxCv
+ofxOpenCv
+ofxPostProcessing
+ofxMSAFluid
+ofxMSACore
+ofxMSAInteractiveObject
+ofxSimpleGuiToo
+ofxXmlSettings
+ofxTuio
+ofxOsc
+
